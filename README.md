@@ -27,3 +27,4 @@ I'm Barrett and I think The Elder Scrolls III: Morrowind is still the best RPG e
 
 ### Table of Contents
 [Markdown Reading](markdown.md)
+[Coders Computer](coders_computer.md)
