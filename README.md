@@ -17,7 +17,8 @@ I'm Barrett and I think The Elder Scrolls III: Morrowind is still the best RPG e
 * A gentle approach when confronted with frustration can save you from feeling something is impossible. When I encounter a problem I tend to have tunnel vision, and I'll look to break down the wall in front of me instead of taking a step back and looking for a door.
 * Taking constructive criticism personally is the easy but harmful approach. Like drinking a tasty poison instead of some bitter medicine, it's choosing self satisfaction through degrees of denial and deflection instead of taking a difficult look inward to see if there really is merit to that criticism. Don't let your ego blind you to a chance for improvement!
 
-| Syntax | Description |
+| Markdown | Features Used |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header | Author, Description, etc. |
+| Inline Link | "My Github" |
+| Bold Text | "Self Determination |
