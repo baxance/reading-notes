@@ -27,8 +27,8 @@ The fancy table I put that secret info in? Assemble your table headers with a pi
 Header Pipe here -> | Another Header
 ------ | ------
 theres dashes above this | <-and another pipe there
-Content in the first column | Content in the second column
 
+I'll end this with my favorite cat picture. Use ![image text](image url here) and copy paste the image URL (as long as you have permission of course) and you've got a way to plug in a picture.
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
 #### Thanks for reading!
