@@ -14,7 +14,9 @@ An IDE or *Integrated Development Environment* takes the benefits of the third p
 
 
 
-#### Basic Terminal Cheat Sheet
+#### Linux Tutorial [1](https://ryanstutorials.net/linuxtutorial/commandline.php), [2](https://ryanstutorials.net/linuxtutorial/navigation.php), [3](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+
 
 
          
