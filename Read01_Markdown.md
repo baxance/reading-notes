@@ -2,7 +2,7 @@
 
 ### Or how I learned to stop worrying and love flavor text
 
-**Markdown** is a *lightweight* language used for simple webpage formatting on [GitHub](http://github.com). Markdown files have the extension ".markdown" or more succinctly ".md" which I can only assume stands for "MarkDown"
+**Markdown** is a *lightweight* language used for simple webpage formatting on [GitHub](http://github.com). Markdown files have the extension ".markdown" or more succinctly ".md" which I can only assume also stands for "MarkDown"
 
 You don't have to only use Markdown for changes in text, you can create lists as well
 
@@ -18,8 +18,10 @@ You don't have to only use Markdown for changes in text, you can create lists as
    
 | Markdown Code | In Use |
 | ----------- | ----------- |
-| * xyz * without spaces to Italicise | *italicise* |
+| * xyz * without spaces to Italicize | *italicize* |
 | ** abc ** without spaces to bold | **bold** |
+
+![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
 
 
 [<== Back to Readme](README.md)
