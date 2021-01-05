@@ -22,6 +22,7 @@ You don't have to only use Markdown for changes in text, you can create lists as
 | ** abc ** without spaces to bold | **bold** |
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
+#### Thanks for reading!
 
 
 [<== Back to Readme](README.md)
