@@ -30,8 +30,26 @@ git clone "git web address" | Copies **ALL** all versions of all files of specif
 git clone "git web address" "directory name" | Does the above but into a directory of your naming
 
 
+#### Workflow
 
+Three components of the local Git repository
+- Working Directory where files live
+- Index transition point
+- Head Most recent commit
 
+##### Tracking Files
+- Tracked files can be modified or staged
+- Untracked filed were not in the previous snapshot and are not staged  
+
+Command Line | Action
+-------|-------
+git status | Check file's status
+git add filename | Track a single file
+git add "name" | Track all files in a repository
+git status | Shows changes to be committed and confirms file is staged
+git commit -m “notes” | Commits changes with reference note
+git commit -a | Commits all modifications of tracked files in working directory
+git push origin main | Pushes the changes to remote repository (from local disc to online)
 
 
 
