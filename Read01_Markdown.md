@@ -6,13 +6,13 @@
 
 You don't have to only use Markdown for changes in text, you can create lists as well
 
--Like
--This
+- Like
+- This
 
--Or
-  -Even
-      -Like
-          -This
+- Or
+  - Even
+      - Like
+          - This
 
 
 [<== Back to Readme](README.md)
