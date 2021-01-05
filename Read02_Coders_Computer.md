@@ -44,14 +44,34 @@ Command Line: ls -l /home/user
 cd (change directory)
 - Navigates you to a different directory
 
-###### Linux ignores file extensions
-  
-###### Reference Sheet
+Files
+- Everything in Linux is read as a file
+- Linux ignores file extensions and reads the file itself to determine what it is
+- "file [path]" shows you the file type
+
+Case Sensitive
+- Linux reads upper/lower case letters as separate characters
+- You can have multiple files with the same name with a different combination of upper/lower case letters and they will all be read as separate files
+
+Spaces in names
+- Spaces in file names are valid, but are also how items are separated on the CL
+- Put quotes around the entire file name for it to be considered a single item
+- backslash \ after the first word to nullify the meaning of the space "spaced\ name"
+
+Hidden files
+- If file name begins with a . it is considered hidden
+- rename a file with/out the . precursor to hide/unhide it
+- ls will not list hidden files, add CL option [-a] to show hidden files
+
+
+##### Reference Sheet
   
 Command | Result
 -------|-------
 Up/Down arrow | Scroll through command input history
 PWD | Displays current working directory
+ls | List current directory
+file | Show information on type of file/directory
 ~ | Shortcut to Home Directory
 . | Reference to current directory
 .. | Reference to parent directory
