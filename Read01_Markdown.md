@@ -30,7 +30,7 @@ Header Pipe here -> | Another Header
 ------ | ------
 theres dashes above this | <-and another pipe there
 
-I'll end this with my favorite cat picture. Use "![image text](image url here)" and copy paste the image URL (as long as you have permission of course) and you've got a way to plug in a picture.
+I'll end this with my favorite cat picture. Use '![image text](image url here)' and copy paste the image URL (as long as you have permission of course) and you've got a way to plug in a picture.
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
 #### Thanks for reading!
