@@ -22,13 +22,13 @@ But really, there's a lot of simple formatting you can do with very little effor
 | * xyz * without spaces to Italicize | *italicize* | 
 | ** abc ** without spaces to bold | **bold** |
 
-The fancy table I put that secret info in? Assemble your table headers with a pipe " | " between them and dashes "---" similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
+The fancy table I put that secret info in? Assemble your table headers with a pipe "|" and a space between them and dashes "---" similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
 
 Header Pipe here -> | Another Header
 ------ | ------
 theres dashes above this | <-and another pipe there
 
-I'll end this with my favorite cat picture. Use ![image text](image url here) and copy paste the image URL (as long as you have permission of course) and you've got a way to plug in a picture.
+I'll end this with my favorite cat picture. Use "![image text](image url here)" and copy paste the image URL (as long as you have permission of course) and you've got a way to plug in a picture.
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
 #### Thanks for reading!
