@@ -50,7 +50,8 @@ git status | Shows changes to be committed and confirms file is staged
 git commit -m “notes” | Commits changes with reference note
 git commit -a | Commits all modifications of tracked files in working directory
 git push origin main | Pushes the changes to remote repository (from local disc to online)
-
+git stash | Temporarily removes changes
+git stash apply | Reveals hidden changes
 
 
 
