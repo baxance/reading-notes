@@ -24,15 +24,14 @@ But really, there's a lot of simple formatting you can do with very little effor
 
 The fancy table I put that secret info in? Assemble your table headers with a pipe " | " between them and dashes "---" similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
 
+Header Pipe here -> | Another Header
+------ | ------
+theres dashes above this | <-and another pipe there
+Content in the first column | Content in the second column
+
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
 #### Thanks for reading!
 
 
 [<== Back to Readme](README.md)
-
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
