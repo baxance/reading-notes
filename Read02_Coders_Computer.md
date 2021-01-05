@@ -29,7 +29,7 @@ Command Line: ls -l /home/user
   ls
   - Short for "list"
   - On it's own shows a listing of current location 
-  - ls [] []
+  - ls [options] [location]
   
 ###### Reference Sheet
   
