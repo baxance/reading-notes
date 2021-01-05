@@ -15,12 +15,14 @@ Or number them by simply placing a number "1. " before each line.
 1. like
 1. this
    
-   But really, there's a lot of simple formatting you can do with very little effort that will make your page look so much better. Here's my tightly kept secret for the fancy bold and italics used at the start.
+But really, there's a lot of simple formatting you can do with very little effort that will make your page look so much better. Here's my tightly kept secret for the fancy bold and italics used at the start.
  
 | Markdown Code | In Use |
 | ----------- | ----------- |
 | * xyz * without spaces to Italicize | *italicize* | 
 | ** abc ** without spaces to bold | **bold** |
+
+The fancy table I put that secret info in? Assemble your table headers with a pipe " | " between them and dashes "---" similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
 
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
