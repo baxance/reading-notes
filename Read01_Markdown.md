@@ -18,8 +18,8 @@ You don't have to only use Markdown for changes in text, you can create lists as
    
 | Markdown Code | In Use |
 | ----------- | ----------- |
-| Enclose text in a * without spaces to Italicise | *italicise* |
-| Paragraph | Text |
+| * xyz * without spaces to Italicise | *italicise* |
+| ** abc ** without spaces to bold | **bold** |
 
 
 [<== Back to Readme](README.md)
