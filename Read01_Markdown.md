@@ -19,11 +19,11 @@ But really, there's a lot of simple formatting you can do with very little effor
  
 | Markdown Code | In Use |
 | ----------- | ----------- |
-| * xyz * without spaces to Italicize | *italicize* | 
-| ** abc ** without spaces to bold | **bold** |
+| '*xyz*' without spaces to Italicize | *italicize* | 
+| '**abc**' without spaces to bold | **bold** |
 
 
-The fancy table I put that secret info in? Assemble your table headers with a pipe "|" and a space between them and dashes "---" similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
+The fancy table I put that secret info in? Assemble your table headers with a pipe '|' and a space between them and dashes '---' similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
 
 
 Header Pipe here -> | Another Header
