@@ -26,15 +26,25 @@ Command Line: ls -l /home/user
   - Bash is the most common shell
   - CL: Echo $SHELL displays your shell
   
-  ls
-  - Short for "list"
+  ls (list)
   - On it's own shows a listing of current location 
   - "ls [options] [location]" gives more options for the command
-  
-  "ls -l" long listing 
-  -[^1]drwxrwxrwx 1 baxance baxance    4096 Dec 28 14:37  Documents
-  [^1] (-) is a file (d) is directory 
-  
+  - "ls -l" long listing 
+  - "ls /etc" Lists specified directory, in this case directory "/etc"
+  - "ls -l /etc" long listing of "/etc" directory
+ 
+  Pathing: Aboslute or Relative
+  - Absolute specifies a file/directory in relation to the **_ROOT_** or highest directory.
+    -Always begins with a /
+  - Relative specifies a location in relation to your current location
+    -Never begins with a /
+ 
+###### Files are Nested within each other, just like in a GUI file explorer
+
+cd (change directory)
+- Navigates you to a different directory
+
+###### Linux ignores file extensions
   
 ###### Reference Sheet
   
@@ -42,9 +52,11 @@ Command | Result
 -------|-------
 Up/Down arrow | Scroll through command input history
 PWD | Displays current working directory
-ls | 
-
-
+~ | Shortcut to Home Directory
+. | Reference to current directory
+.. | Reference to parent directory
+cd | On it's own returns you to home directory
+Tab key | auto completion, press twice to show multiple options
          
          
 
