@@ -19,19 +19,25 @@ An IDE or *Integrated Development Environment* takes the benefits of the third p
 Command Line: ls -l /home/user
 - **ls** Command
 - **-l /home/user** Command line Argument
-    - **-1** Command line argument option to modify the behavior of the command
+    - **-l** Command line argument option to modify the behavior of the command
     
   Shell/Bash
   - The shell is the skeleton of the terminal and what causes the terminal to behave to commands you input
   - Bash is the most common shell
   - CL: Echo $SHELL displays your shell
   
-###### Shortcuts!
+  ls
+  - Short for "list"
+  - On it's own shows a listing of current location 
+  - ls [] []
+  
+###### Reference Sheet
   
 Command | Result
 -------|-------
 Up/Down arrow | Scroll through command input history
-
+PWD | Displays current working directory
+ls | 
 
 
          
