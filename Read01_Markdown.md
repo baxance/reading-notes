@@ -16,16 +16,21 @@ Or number them by simply placing a number "1. " before each line.
 1. this
    
    But really, there's a lot of simple formatting you can do with very little effort that will make your page look so much better. Here's my tightly kept secret for the fancy bold and italics used at the start.
-   
- Markdown Code | In Use 
- ----------- | ----------- 
- * xyz * without spaces to Italicize | *italicize* 
- ** abc ** without spaces to bold | **bold** 
+ 
+| Markdown Code | In Use |
+| ----------- | ----------- |
+| * xyz * without spaces to Italicize | *italicize* | 
+| ** abc ** without spaces to bold | **bold** |
 
-Tables always look really neat, and you just have to divide the header from the rest of the content with dashes "---" beneath the top text and a pipe "|" where you want the horizontal division to occur.
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
 #### Thanks for reading!
 
 
 [<== Back to Readme](README.md)
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
