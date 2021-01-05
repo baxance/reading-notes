@@ -21,7 +21,6 @@ But really, there's a lot of simple formatting you can do with very little effor
 | ----------- | ----------- |
 | Enclose text with * to Italicize | *italicize* | 
 | Enclose text with ** to bold | **bold** |
-| Begin a line with a # to create a large heading |
 
 
 ![BlinsCat](https://pbs.twimg.com/media/D0_q0r-WwAYrXuG.png)
