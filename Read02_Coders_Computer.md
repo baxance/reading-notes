@@ -14,11 +14,23 @@ An IDE or *Integrated Development Environment* takes the benefits of the third p
 
 
 
-#### Linux Tutorial [1](https://ryanstutorials.net/linuxtutorial/commandline.php), [2](https://ryanstutorials.net/linuxtutorial/navigation.php), [3](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+#### Linux Basics [1](https://ryanstutorials.net/linuxtutorial/commandline.php), [2](https://ryanstutorials.net/linuxtutorial/navigation.php), [3](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-Command Line:
-- Command
-  - Command line
+Command Line: ls -l /home/user
+- **ls** Command
+- **-l /home/user** Command line Argument
+    - **-1** Command line argument option to modify the behavior of the command
+    
+  Shell/Bash
+  - The shell is the skeleton of the terminal and what causes the terminal to behave to commands you input
+  - Bash is the most common shell
+  - CL: Echo $SHELL displays your shell
+  
+###### Shortcuts!
+  
+Command | Result
+-------|-------
+Up/Down arrow | Scroll through command input history
 
 
 
