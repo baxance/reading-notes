@@ -9,10 +9,10 @@ You don't have to only use Markdown for changes in text, you can create lists as
 - Like
 - This
 
-
-- Or
-  - Like
-  - This
+Or number them by simply placing a number before each line
+1 a lot
+2 like
+3 this
    
    But really, there's a lot of simple formatting you can do with very little effort that will make your page look so much better. Here's my tightly kept secret for the fancy bold and italics used at the start.
    
