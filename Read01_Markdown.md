@@ -13,6 +13,13 @@ You don't have to only use Markdown for changes in text, you can create lists as
 - Or
   - Like
    - This
+   
+   But really, there's a lot of simple formatting you can do with very little effort that will make your page look so much better. Here's a cheat-sheet.
+   
+| Markdown Code | In Use |
+| ----------- | ----------- |
+| Enclose text in a * without spaces to Italicise | *italicise* |
+| Paragraph | Text |
 
 
 [<== Back to Readme](README.md)
