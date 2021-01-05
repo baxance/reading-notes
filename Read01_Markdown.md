@@ -4,12 +4,12 @@
 
 **Markdown** is a *lightweight* language used for simple webpage formatting on [GitHub](http://github.com). Markdown files have the extension ".markdown" or more succinctly ".md" which I can only assume also stands for "MarkDown"
 
-You don't have to only use Markdown for changes in text, you can create lists as well be preceeding a line with a simple "- " or a "* "
+You don't have to only use Markdown for changes in text, you can create lists as well be preceeding a line with a simple '- ' or a '* '
 
 - Like
 - This
 
-Or number them by simply placing a number "1. " before each line.
+Or number them by simply placing a number '1. ' before each line.
 1. Which
 1. Looks
 1. like
@@ -19,8 +19,8 @@ But really, there's a lot of simple formatting you can do with very little effor
  
 | Markdown Code | In Use |
 | ----------- | ----------- |
-| '*xyz*' without spaces to Italicize | *italicize* | 
-| '**abc**' without spaces to bold | **bold** |
+| * xyz * without spaces to Italicize | *italicize* | 
+| ** abc ** without spaces to bold | **bold** |
 
 
 The fancy table I put that secret info in? Assemble your table headers with a pipe '|' and a space between them and dashes '---' similarly separated by a pipe beneath them. Then organize the text below each header by placing another pipe between them.
