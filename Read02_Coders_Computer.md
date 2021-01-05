@@ -29,7 +29,12 @@ Command Line: ls -l /home/user
   ls
   - Short for "list"
   - On it's own shows a listing of current location 
-  - ls [options] [location]
+  - "ls [options] [location]" gives more options for the command
+  
+  "ls -l" long listing 
+  -[^1]drwxrwxrwx 1 baxance baxance    4096 Dec 28 14:37  Documents
+  [^1] (-) is a file (d) is directory 
+  
   
 ###### Reference Sheet
   
