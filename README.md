@@ -26,5 +26,5 @@ I'm Barrett and I think The Elder Scrolls III: Morrowind is still the best RPG e
 | Table | Listing markdown features used :^) |
 
 ### Table of Contents
-* [Read01: Markdown](markdown.md)
-* [Read02: Coders Computer](coders_computer.md)
+* [Read01: Markdown](Read01_Markdown.md)
+* [Read02: Coders Computer](Read02_Coders_Computer.md)
