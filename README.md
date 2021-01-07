@@ -18,3 +18,5 @@ I'm Barrett and I think The Elder Scrolls III: Morrowind is still the best RPG e
 * [Read05: Design web pages with CSS](Read05_Design_CSS.md)
 * [Read06a: Dynamic web pages with JavaScript](Read06a_Dynamic_JS.md)
 * [Read06b: Computer Architecture and Logic](Read06b_Computer_Architecture_Logic.md)
+* [Read07: Programming with JavaScript](Read07_Programming_JS.md)
+* [Read08: Operators and Loops](Read08_Operators_Loops)
