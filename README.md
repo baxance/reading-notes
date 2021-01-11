@@ -13,7 +13,7 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 
 Assignments | Title
 ----------------|------
-[Read 01](read201-01.md) | Introductory HTML and JavaScript
+[Read 01](/201/read201-01.md) | Introductory HTML and JavaScript
 [Read 02]() | HTML Text, CSS Introduction, and Basic JavaScript Instructions
 [Read 03]() | HTML Lists, CSS Boxes, JS Control Flow
 [Read 04]() | HTML Links, CSS Layout, JS Functions
@@ -39,13 +39,13 @@ Assignments | Title
 
 102 Assignments | Title
 --------------------------|----------
-[Growth Mindset](Growth_Mindset.md) |
-[Read 01](Read01_Markdown.md) | Markdown
-[Read 02](Read02_Coders_Computer.md) | Coders Computer
-[Read 03](Read03_Revisions_Cloud.md) | Revisions and the Cloud
-[Read 04](Read04_Structure_HTML.md) | Structure web pages with HTML
-[Read 05](Read05_Design_CSS.md) | Design web pages with CSS
-[Read 06a](Read06a_Dynamic_JS.md) | Dynamic web pages with JavaScript
-[Read 06b](Read06b_Computer_Architecture_Logic.md) | Computer Architecture and Logic
-[Read 07](Read07_Programming_JS.md) | Programming with JavaScript
-[Read 08](Read08_Operators_Loops) | Operators and Loops
+[Growth Mindset]/102/(Growth_Mindset.md) |
+[Read 01](/102/Read01_Markdown.md) | Markdown
+[Read 02](/102/Read02_Coders_Computer.md) | Coders Computer
+[Read 03](/102/Read03_Revisions_Cloud.md) | Revisions and the Cloud
+[Read 04](/102/Read04_Structure_HTML.md) | Structure web pages with HTML
+[Read 05](/102/Read05_Design_CSS.md) | Design web pages with CSS
+[Read 06a](/102/Read06a_Dynamic_JS.md) | Dynamic web pages with JavaScript
+[Read 06b](/102/Read06b_Computer_Architecture_Logic.md) | Computer Architecture and Logic
+[Read 07](/102/Read07_Programming_JS.md) | Programming with JavaScript
+[Read 08](/102/Read08_Operators_Loops) | Operators and Loops
