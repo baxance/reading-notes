@@ -13,7 +13,7 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 
 Assignments | Title
 ----------------|------
-[Read 01]() | Introductory HTML and JavaScript
+[Read 01](read201-01.md) | Introductory HTML and JavaScript
 [Read 02]() | HTML Text, CSS Introduction, and Basic JavaScript Instructions
 [Read 03]() | HTML Lists, CSS Boxes, JS Control Flow
 [Read 04]() | HTML Links, CSS Layout, JS Functions
