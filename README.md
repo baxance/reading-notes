@@ -16,7 +16,7 @@ Assignments | Title
 [Read 01](/201/read201-01.md) | Introductory HTML and JavaScript
 [Read 02](/201/read201-02.md) | HTML Text, CSS Introduction, and Basic JavaScript Instructions
 [Read 03](/201/read201-03.md) | HTML Lists, CSS Boxes, JS Control Flow
-[Read 04]() | HTML Links, CSS Layout, JS Functions
+[Read 04](/201/read201-04.md) | HTML Links, CSS Layout, JS Functions
 [Read 05]() | HTML Images; CSS Color & Text
 [Read 06]() | JS Object Literals; The DOM
 [Read 07]() | HTML Tables; JS Constructor Functions
