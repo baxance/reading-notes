@@ -19,7 +19,7 @@ Assignments | Title
 [Read 04](/201/read201-04.md) | HTML Links, CSS Layout, JS Functions
 [Read 05](/201/read201-05.md) | HTML Images; CSS Color & Text
 [Read 06](/201/read201-06.md) | JS Object Literals; The DOM
-[Read 07]() | HTML Tables; JS Constructor Functions
+[Read 07](/201/read201-07.md) | HTML Tables; JS Constructor Functions
 [Read 08]() | More CSS Layout
 [Read 09]() | Forms and Events
 [Read 10]() | JS Debugging
