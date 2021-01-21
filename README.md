@@ -21,7 +21,7 @@ Assignments | Title
 [Read 06](/201/read201-06.md) | JS Object Literals; The DOM
 [Read 07](/201/read201-07.md) | HTML Tables; JS Constructor Functions
 [Read 08](/201/read201-08.md) | More CSS Layout
-[Read 09]() | Forms and Events
+[Read 09](/201/read201-09.md) | Forms and Events
 [Read 10]() | JS Debugging
 [Read 11]() | Assorted Topics
 [Read 12]() | Docs for the HTML `<canvas>` Element & Chart.js
