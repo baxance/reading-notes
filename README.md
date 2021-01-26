@@ -24,7 +24,7 @@ Assignments | Title
 [Read 09](/201/read201-09.md) | Forms and Events
 [Read 10](/201/read201-10.md) | JS Debugging
 [Read 11](/201/read201-11.md) | Assorted Topics
-[Read 12]() | Docs for the HTML `<canvas>` Element & Chart.js
+[Read 12](/201/read201-12.md) | Docs for the HTML `<canvas>` Element & Chart.js
 [Read 13]() | Local Storage
 [Read 14a]() | CSS Transforms, Transitions, and Animations
 [Read 14b]() | What Google Learned About Teams
