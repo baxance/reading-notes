@@ -25,7 +25,7 @@ Assignments | Title
 [Read 10](/201/read201-10.md) | JS Debugging
 [Read 11](/201/read201-11.md) | Assorted Topics
 [Read 12](/201/read201-12.md) | Docs for the HTML `<canvas>` Element & Chart.js
-[Read 13]() | Local Storage
+[Read 13](/201/read201-13.md) | Local Storage
 [Read 14a]() | CSS Transforms, Transitions, and Animations
 [Read 14b]() | What Google Learned About Teams
 [Read 15a]() | Merge conflicts with Bob, Carol, Ted, and Alice
