@@ -26,8 +26,8 @@ Assignments | Title
 [Read 11](/201/read201-11.md) | Assorted Topics
 [Read 12](/201/read201-12.md) | Docs for the HTML `<canvas>` Element & Chart.js
 [Read 13](/201/read201-13.md) | Local Storage
-[Read 14a]() | CSS Transforms, Transitions, and Animations
-[Read 14b]() | What Google Learned About Teams
+[Read 14a](/201/read201-14a.md) | CSS Transforms, Transitions, and Animations
+[Read 14b](/201/read201-14b.md) | What Google Learned About Teams
 [Read 15a]() | Merge conflicts with Bob, Carol, Ted, and Alice
 [Read 15b]() | Finish with the BusMall app
 
