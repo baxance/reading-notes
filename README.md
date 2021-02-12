@@ -9,6 +9,26 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 
 [My Github](https://github.com/baxance)
 
+## 301 Reading Notes
+
+Assignments | Title
+------------|------
+[Read 01](/301/read301-01.md) | SMACSS and Responsive Web Design
+[Read 02](/301/read301-02.md) | jQuery, Events and The Dom
+[Read 03](/301/read301-03.md) | Flexbox and Templating
+[Read 04](/301/read301-04.md) | Responsive Web Design and Regular Expressions
+[Read 05](/301/read301-05.md) | Heroku Deployment
+[Read 06](/301/read301-06.md) | Node, Express, and APIs
+[Read 07](/301/read301-07.md) | APIs continued
+[Read 08](/301/read301-08.md) | SQL
+[Read 09](/301/read301-09.md) | SQL Continued
+[Read 10](/301/read301-10.md) | The Call Stack and Debugging
+[Read 11](/301/read301-11.md) | EJS
+[Read 12](/301/read301-12.md) | Components
+[Read 13](/301/read301-13.md) | Update and Delete
+[Read 14](/301/read301-14.md) |DB Normalization
+[Read 15](/301/read301-15.md) | Diversity and Inclusion
+
 ## 201 Reading Notes
 
 Assignments | Title
@@ -28,12 +48,6 @@ Assignments | Title
 [Read 13](/201/read201-13.md) | Local Storage
 [Read 14a](/201/read201-14a.md) | CSS Transforms, Transitions, and Animations
 [Read 14b](/201/read201-14b.md) | What Google Learned About Teams
-[Read 15a]() | Merge conflicts with Bob, Carol, Ted, and Alice
-[Read 15b]() | Finish with the BusMall app
-
-
-
-
 
 ## 102 Reading Notes
 
