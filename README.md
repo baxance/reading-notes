@@ -14,7 +14,7 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 Assignments | Title
 ------------|------
 [Read 01](/301/read301-01.md) | SMACSS and Responsive Web Design
-[Read 02](/301/read301-02.md) | jQuery, Events and The Dom
+[Read 02](/301/read301-02.md) | Pair Programming
 [Read 03](/301/read301-03.md) | Flexbox and Templating
 [Read 04](/301/read301-04.md) | Responsive Web Design and Regular Expressions
 [Read 05](/301/read301-05.md) | Heroku Deployment
