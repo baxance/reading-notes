@@ -9,7 +9,13 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 
 [My Github](https://github.com/baxance)
 
-## 301 Reading Notes
+## Code 401 - Advanced Software Development in Java Reading Notes
+
+Assignments | Title
+------------|------
+[Read 01](/401/read401-01.md) | Java Basics
+
+## Code 301 - Intermediate Software Development Reading Notes
 
 Assignments | Title
 ------------|------
@@ -29,7 +35,7 @@ Assignments | Title
 [Read 14](/301/read301-14.md) |DB Normalization
 [Read 15](/301/read301-15.md) | Diversity and Inclusion
 
-## 201 Reading Notes
+## Code 201 - Foundations of Software Development Reading Notes
 
 Assignments | Title
 ----------------|------
@@ -49,7 +55,7 @@ Assignments | Title
 [Read 14a](/201/read201-14a.md) | CSS Transforms, Transitions, and Animations
 [Read 14b](/201/read201-14b.md) | What Google Learned About Teams
 
-## 102 Reading Notes
+## Code 102 - Intro to Software Development Reading Notes
 
 102 Assignments | Title
 --------------------------|----------
