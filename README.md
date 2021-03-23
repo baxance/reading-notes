@@ -14,6 +14,8 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 Assignments | Title
 ------------|------
 [Read 01](/401/read401-01.md) | Java Basics
+[Read 02](/401/read401-02.md) | Java Arrays, Loops, Imports
+
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
