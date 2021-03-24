@@ -15,6 +15,7 @@ Assignments | Title
 ------------|------
 [Read 01](/401/read401-01.md) | Java Basics
 [Read 02](/401/read401-02.md) | Java Arrays, Loops, Imports
+[Read 03](/401/read401-03.md) | Maps, primitives, File I/O
 
 
 ## Code 301 - Intermediate Software Development Reading Notes
