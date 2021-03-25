@@ -1,10 +1,13 @@
 # Author
+
 Barrett Nance
 
 ## Description
+
 This is a collection of my readings for Codefellows 102, 201 and 301.
 
 ### About Me
+
 I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best RPG ever made and that *Warhammer 40K* is better than Star Wars. I left the world of spirits as a production manager/head distiller to learn to code. If you're in the Seattle area you should try [the whiskey](https://www.tastings.com/Spirits-Review/Copperworks-Distilling-Company-American-Single-Malt-Whiskey-USA-96-Proof-11-01-2018.aspx) I used to help make. I'd be thrilled to talk with anyone about whiskey or gin, either learning about the process or favorite spirits or whatever.
 
 [My Github](https://github.com/baxance)
@@ -16,7 +19,7 @@ Assignments | Title
 [Read 01](/401/read401-01.md) | Java Basics
 [Read 02](/401/read401-02.md) | Java Arrays, Loops, Imports
 [Read 03](/401/read401-03.md) | Maps, primitives, File I/O
-
+[Read 04](/401/read401-04.md) | OOP
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
