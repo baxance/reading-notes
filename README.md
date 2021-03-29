@@ -20,7 +20,9 @@ Assignments | Title
 [Read 02](/401/read401-02.md) | Java Arrays, Loops, Imports
 [Read 03](/401/read401-03.md) | Maps, primitives, File I/O
 [Read 04](/401/read401-04.md) | OOP
-[Read 05](/401/read401-05.md) | Linked Listsl
+[Read 05](/401/read401-05.md) | Linked Lists
+[Read 06](/401/read401-06.md) | Inheritance and Interfaces
+
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
