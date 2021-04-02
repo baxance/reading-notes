@@ -24,6 +24,7 @@ Assignments | Title
 [Read 06](/401/read401-06.md) | Inheritance and Interfaces
 [Read 08](/401/read401-08.md) | OO Design
 [Read 09](/401/read401-09.md) | WRRC and Java
+[Read 10](/401/read401-10.md) | Stacks and Queues
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
