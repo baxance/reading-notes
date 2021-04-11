@@ -29,6 +29,7 @@ Assignments | Title
 [Read 12](/401/read401-12.md) | Spring RESTful Routing & Static Files
 [Read 13](/401/read401-13.md) | Related Resources and Integration Testing
 [Read 14](/401/read401-14.md) | Trees
+[Read 15](/401/read401-15.md) | Spring Authentication
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
