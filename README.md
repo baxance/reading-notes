@@ -30,6 +30,7 @@ Assignments | Title
 [Read 13](/401/read401-13.md) | Related Resources and Integration Testing
 [Read 14](/401/read401-14.md) | Trees
 [Read 15](/401/read401-15.md) | Spring Authentication
+[Read 16](/401/read401-16.md) | Spring Authorization
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
