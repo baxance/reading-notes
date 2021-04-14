@@ -31,6 +31,7 @@ Assignments | Title
 [Read 14](/401/read401-14.md) | Trees
 [Read 15](/401/read401-15.md) | Spring Authentication
 [Read 16](/401/read401-16.md) | Spring Authorization
+[Read 17](/401/read401-17.md) | Web App Security
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
