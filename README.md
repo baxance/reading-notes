@@ -32,6 +32,7 @@ Assignments | Title
 [Read 15](/401/read401-15.md) | Spring Authentication
 [Read 16](/401/read401-16.md) | Spring Authorization
 [Read 17](/401/read401-17.md) | Web App Security
+[Read 18](/401/read401-18.md) | Spring and Sockets
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
