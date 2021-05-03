@@ -33,6 +33,8 @@ Assignments | Title
 [Read 16](/401/read401-16.md) | Spring Authorization
 [Read 17](/401/read401-17.md) | Web App Security
 [Read 18](/401/read401-18.md) | Spring and Sockets
+[Read 27](/401/read401-27.md) | Intents, Activities, and SharedPreferences
+[Read 31](/401/read401-31.md) | Espresso
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
