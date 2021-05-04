@@ -35,6 +35,8 @@ Assignments | Title
 [Read 18](/401/read401-18.md) | Spring and Sockets
 [Read 27](/401/read401-27.md) | Intents, Activities, and SharedPreferences
 [Read 31](/401/read401-31.md) | Espresso
+[Read 32](/401/read401-32.md) | Serverless and Amplify
+
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
