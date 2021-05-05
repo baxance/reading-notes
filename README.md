@@ -36,7 +36,7 @@ Assignments | Title
 [Read 27](/401/read401-27.md) | Intents, Activities, and SharedPreferences
 [Read 31](/401/read401-31.md) | Espresso
 [Read 32](/401/read401-32.md) | Serverless and Amplify
-
+[Read 33](/401/read401-33.md) | GraphQL @connection
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
