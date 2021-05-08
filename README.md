@@ -39,7 +39,7 @@ Assignments | Title
 [Read 33](/401/read401-33.md) | GraphQL @connection
 [Read 34](/401/read401-34.md) | Monetization
 [Read 35](/401/read401-35.md) | Graphs
-
+[Read 36](/401/read401-36.md) | Cognito
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
