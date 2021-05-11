@@ -40,6 +40,7 @@ Assignments | Title
 [Read 34](/401/read401-34.md) | Monetization
 [Read 35](/401/read401-35.md) | Graphs
 [Read 36](/401/read401-36.md) | Cognito
+[Read 37](/401/read401-37.md) | S3
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
