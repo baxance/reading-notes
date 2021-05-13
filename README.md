@@ -42,6 +42,7 @@ Assignments | Title
 [Read 36](/401/read401-36.md) | Cognito
 [Read 37](/401/read401-37.md) | S3
 [Read 38](/401/read401-38.md) | Notifications
+[Read 39](/401/read401-39.md) | Kinesis
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
