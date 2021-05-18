@@ -44,6 +44,7 @@ Assignments | Title
 [Read 38](/401/read401-38.md) | Notifications
 [Read 39](/401/read401-39.md) | Kinesis
 [Read 40](/401/read401-40.md) | Intent Filters
+[Read 42](/401/read401-42.md) | Location
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
