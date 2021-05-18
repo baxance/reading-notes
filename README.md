@@ -45,6 +45,7 @@ Assignments | Title
 [Read 39](/401/read401-39.md) | Kinesis
 [Read 40](/401/read401-40.md) | Intent Filters
 [Read 42](/401/read401-42.md) | Location
+[Ethics](/401/read401-ethics.md) | Ethics in Tech
 
 ## Code 301 - Intermediate Software Development Reading Notes
 
