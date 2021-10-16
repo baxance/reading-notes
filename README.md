@@ -12,6 +12,12 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 
 [My Github](https://github.com/baxance)
 
+## Code 401 - Advanced Software Development in JavaScript Reading Notes
+
+Assignments | Title
+------------|------
+[Read 01](/401/read401-01.md) | Prep Work
+
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
 Assignments | Title
