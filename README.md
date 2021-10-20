@@ -16,7 +16,9 @@ I'm Barrett and I think The Elder Scrolls III: **Morrowind** is still the best R
 
 Assignments | Title
 ------------|------
-[Read 01](/401JS/read401-prep.md) | Prep Work
+[Read 00](./401JS/read401-prep.md) | Prep Work
+[Read 02](./401JS/read401-02.md) | Express
+
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 

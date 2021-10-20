@@ -26,4 +26,4 @@ Once the pseudo code is complete that opens the door to actually making it work.
 
 Often the reaction from the interviewer (at least in my experience) is "okay that works. Is there a way to make this more efficient?" Which is your cue to panic, forget all of these steps and try and shove a different solution into the middle of the solution you already have instead of creating an entirely new solution.
 
-[<== Back to Readme](README.md)
+[<== Back to Readme](../README.md)
