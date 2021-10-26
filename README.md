@@ -19,6 +19,7 @@ Assignments | Title
 [Read 00](./401JS/read401-prep.md) | Prep Work
 [Read 02](./401JS/read401-02.md) | Express
 [Read 03](./401JS/read401-03.md) | Express REST API
+[Read 06](./401JS/read401-06.md) | Authentication
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
