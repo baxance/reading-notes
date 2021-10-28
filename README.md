@@ -21,6 +21,7 @@ Assignments | Title
 [Read 03](./401JS/read401-03.md) | Express REST API
 [Read 06](./401JS/read401-06.md) | Authentication
 [Read 07](./401JS/read401-07.md) | Bearer Authorization
+[Read 08](./401JS/read401-08.md) | Access Control
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
