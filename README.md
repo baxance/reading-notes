@@ -22,6 +22,8 @@ Assignments | Title
 [Read 06](./401JS/read401-06.md) | Authentication
 [Read 07](./401JS/read401-07.md) | Bearer Authorization
 [Read 08](./401JS/read401-08.md) | Access Control
+[Read 09](./401JS/read401-09.md) | Access Control
+[Read 10](./401JS/read401-10.md) | Stacks and Queues
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
