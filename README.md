@@ -25,6 +25,7 @@ Assignments | Title
 [Read 09](./401JS/read401-09.md) | Access Control
 [Read 10](./401JS/read401-10.md) | Stacks and Queues
 [Read 11](./401JS/read401-11.md) | Event Driven Applications
+[Read 12](./401JS/read401-12.md) | Socket.io
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
