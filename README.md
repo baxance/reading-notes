@@ -26,6 +26,8 @@ Assignments | Title
 [Read 10](./401JS/read401-10.md) | Stacks and Queues
 [Read 11](./401JS/read401-11.md) | Event Driven Applications
 [Read 12](./401JS/read401-12.md) | Socket.io
+[Read 12](./401JS/read401-16.md) | AWS: Cloud Servers
+[Read 12](./401JS/read401-17.md) | S3 and Lambda
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
