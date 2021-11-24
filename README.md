@@ -29,6 +29,9 @@ Assignments | Title
 [Read 16](./401JS/read401-16.md) | AWS: Cloud Servers
 [Read 17](./401JS/read401-17.md) | AWS: S3 and Lambda
 [Read 18](./401JS/read401-18.md) | AWS: API, Dynamo and Lambda
+[Read 19](./401JS/read401-19.md) | AWS: Events
+[Read 26](./401JS/read401-26.md) | Component Based UI
+[Read 27](./401JS/read401-27.md) | `useState()` Hook
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
