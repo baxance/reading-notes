@@ -32,6 +32,7 @@ Assignments | Title
 [Read 19](./401JS/read401-19.md) | AWS: Events
 [Read 26](./401JS/read401-26.md) | Component Based UI
 [Read 27](./401JS/read401-27.md) | `useState()` Hook
+[Read 34](./401JS/read401-34.md) | API Integration
 
 ## Code 401 - Advanced Software Development in Java Reading Notes
 
